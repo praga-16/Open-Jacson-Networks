@@ -65,5 +65,5 @@ print("----------------------------------------------------------------------")
 ## Output
 ![image](prob5b.png)
 
-##Result
+## Result
 Thus the experiment executed sucessfully.
